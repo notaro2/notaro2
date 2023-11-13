@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Raff
 - 👀 I’m interested in nature, food, and music
-- 🌱 I’m currently learning how to use git hub ( also python, tableau )
+- 🌱 I’m learning how to use git hub ( I mostly do python, SQL, tableau )
 - 💞️ I’m looking to collaborate on data analysis
 - 📫 How to reach me notaro2  at yahoo dot com
 
